@@ -1,2 +1,6 @@
 [GENERAL]
 Active = true
+
+[PATHS]
+
+//GITHUB https://github.com/yurtrimu/Gamer-Cat :)
