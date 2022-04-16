@@ -1,6 +1,9 @@
 [GENERAL]
+{
 Active = "true"
+FormName = "Gamer Cat"
+HideAfterStart = "true"
+}
 
-[PATHS]
-
+!!-!! Do not change the format if you dont know what you are doing !!-!!
 //GITHUB https://github.com/yurtrimu/Gamer-Cat :)
