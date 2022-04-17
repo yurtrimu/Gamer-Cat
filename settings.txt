@@ -1,11 +1,21 @@
 [GENERAL]
 {
 Active = "true"
+//Gamer cat active or not.
 FormName = "Gamer Cat"
+//Form's Name.
 HideAfterStart = "true"
+//Hides startup form after gamer cat started.
 TopMost = "true"
+//Gamer cat will always be on top of other programs.
 BottomTab = "true"
-BottomTabTopMost = "false"
+//Bottom tab active or not.
+BottomTabTopMost = "true"
+//Bottom tab will always be on top of other programs.
+BottomTabBackgroundTransparent = "true"
+//Bottom tab's background transparent or not.
+BottomTabFormOpacity = "100"
+//Opacity of the form including buttons.
 }
 
 !!-!! Do not change the format if you dont know what you are doing !!-!!
