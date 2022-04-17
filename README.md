@@ -1,5 +1,6 @@
 # Gamer-Cat
-Cat that clicks mouse everytimes when you do and the same thing happens for the keyboard too!
+Cat that clicks mouse and keyboard everytime when you do!
+
 by Yurtrimu#1100
 
 You can draw your own cat and customize it!
