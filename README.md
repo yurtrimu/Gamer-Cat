@@ -6,7 +6,8 @@ by Yurtrimu#1100
 You can draw your own cat and customize it!
 
 You can set TopMost to false or other options in settings.txt
-//Do not recommended to change the variable format of the settings.txt
+
+//Not recommended to change the variable format of the settings.txt
 
 Click to the image to watch the setup tutorial
 
