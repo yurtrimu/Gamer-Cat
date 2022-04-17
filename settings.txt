@@ -4,6 +4,8 @@ Active = "true"
 FormName = "Gamer Cat"
 HideAfterStart = "true"
 TopMost = "true"
+BottomTab = "true"
+BottomTabTopMost = "false"
 }
 
 !!-!! Do not change the format if you dont know what you are doing !!-!!
