@@ -9,7 +9,7 @@ You can set TopMost to false or other options in settings.txt
 
 Click to the image to watch the setup tutorial
 
-[![Gamer cat](https://cdn.discordapp.com/attachments/960269719368249458/965234774472015882/gamer_cat.PNG)](https://youtube.com)
+[![Gamer cat](https://cdn.discordapp.com/attachments/960269719368249458/965234774472015882/gamer_cat.PNG)](https://youtu.be/3qIBpbDvjlU)
 
 //Not recommended to change the variable format of the settings.txt
 
